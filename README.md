@@ -5,5 +5,5 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://example.org" style="color : #ffffff">rentry</a>
 </p> 
-<p align="center"> <img src="https://files.catbox.moe/fq7o48.png" width="250" height="250" alt="Alt text"> 
+<p align="center"> <img src="https://files.catbox.moe/bv0yv4.png" width="350" height="215" alt="Alt text"> 
 </p>
