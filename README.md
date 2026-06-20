@@ -5,5 +5,5 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://files.catbox.moe/6m4dl4.jpg" style="color:#ffffff">rentry</a>
 </p> 
-<p align="center"> <img src="https://files.catbox.moe/mg2z3v.png" width="350" height="215" alt="fail"> 
+<p align="center"> <img src="https://files.catbox.moe/05tzp0.png" width="350" height="215" alt="fail"> 
 </p>
