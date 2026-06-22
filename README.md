@@ -6,4 +6,6 @@
 <a href="https://files.catbox.moe/6m4dl4.jpg" style="color:#ffffff">rentry</a>
 </p> 
 <p align="center"> <img src="https://files.catbox.moe/jbvyna.png" width="350" height="215" alt="fail">
+<p align="center">“𝘵𝘰 𝘵𝘩𝘪𝘯𝘬 𝘥𝘦𝘢𝘵𝘩 𝘸𝘰𝘶𝘭𝘥 𝘣𝘦 𝘴𝘰 𝘵𝘦𝘳𝘳𝘪𝘧𝘺𝘪𝘯g”
+</p>
 </p>
